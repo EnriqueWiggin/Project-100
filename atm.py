@@ -9,3 +9,4 @@ class Atm(object):
 
     def whitdrawl(self):
         print("withdrawled")
+    Atm("gray", "buttons", "rectangular")
